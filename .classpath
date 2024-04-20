@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="src/java/" kind="src" path="Restaurant real time order management system"/>
+	<classpathentry kind="src" path="Restaurant real time order management system/src/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
